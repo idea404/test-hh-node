@@ -419,10 +419,10 @@
     chalk "4.1.2"
     ts-morph "^19.0.0"
 
-"@matterlabs/hardhat-zksync-node@0.0.1-beta.2":
-  version "0.0.1-beta.2"
-  resolved "https://registry.yarnpkg.com/@matterlabs/hardhat-zksync-node/-/hardhat-zksync-node-0.0.1-beta.2.tgz#627a00b4a746eff6b01783cdcd7097fe4c42798a"
-  integrity sha512-BP61JyGadNxyT7LfHs9XnW0N0yVrQaxQMTCE5MZUbz6yP9GTMqLnARYweZBmymHy819pmyOXYSOVw7rpT6moHw==
+"@matterlabs/hardhat-zksync-node@0.0.1-beta.3":
+  version "0.0.1-beta.3"
+  resolved "https://registry.yarnpkg.com/@matterlabs/hardhat-zksync-node/-/hardhat-zksync-node-0.0.1-beta.3.tgz#a04d928441a69792d23150a4c341c0b3894f920c"
+  integrity sha512-pNXRXOZieFmLH8SiEfXk/fnSK5C/5c41jJFoinGhwLsQS5mfJc8RBIuCIUETRpHYFieswI9b7ntD+A8UTSh92Q==
   dependencies:
     "@matterlabs/hardhat-zksync-solc" "0.4.2"
     axios "^1.4.0"
