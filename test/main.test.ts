@@ -13,7 +13,7 @@ async function deployGreeter(deployer: Deployer): Promise<Contract> {
 
 describe('Greeter', function () {
   it("Should return the new greeting once it's changed", async function () {
-    const provider = new Provider(hre.network.config.url);
+    const provider = new Provider("http://127.0.0.1:8011");
 
     const wallet = new Wallet(RICH_WALLET_PK, provider);
     const deployer = new Deployer(hre, wallet);
